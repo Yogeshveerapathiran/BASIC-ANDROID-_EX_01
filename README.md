@@ -122,24 +122,24 @@ public class MainActivity extends AppCompatActivity {
 ## OUTPUT:
 ## OnCreate Executed:
 
-![Screenshot 2024-09-08 115226](https://github.com/user-attachments/assets/6e4f8ab4-36fd-48b7-85d1-c15acd9ccdb4" width="300" height="500" /)
+![Screenshot 2024-09-08 115226](https://github.com/user-attachments/assets/6e4f8ab4-36fd-48b7-85d1-c15acd9ccdb4 width="300" height="500" /)
 
 ## OnPause Executed:
 
-![Screenshot 2024-09-08 115345](https://github.com/user-attachments/assets/04d1f4bf-2532-430b-86fd-35defceb4868"  width="300" height="500" /)
+![Screenshot 2024-09-08 115345](https://github.com/user-attachments/assets/04d1f4bf-2532-430b-86fd-35defceb4868 width="300" height="500" /)
 
 ## OnResume Executed:
 
-![Screenshot 2024-09-08 115448](https://github.com/user-attachments/assets/b3d74fc5-48cd-4970-b837-dd1145a65221"  width="300" height="500" /)
+![Screenshot 2024-09-08 115448](https://github.com/user-attachments/assets/b3d74fc5-48cd-4970-b837-dd1145a65221  width="300" height="500" /)
 
 ## OnRestart Executed:
 
-![Screenshot 2024-09-08 115548](https://github.com/user-attachments/assets/14ff2915-320f-420f-8d25-509b91954d9f" width="300" height="500" /)
+![Screenshot 2024-09-08 115548](https://github.com/user-attachments/assets/14ff2915-320f-420f-8d25-509b91954d9f width="300" height="500" /)
 
 
 ## OnStart Executed:
 
-![Screenshot 2024-09-08 115646](https://github.com/user-attachments/assets/6a42610e-e573-42fd-9237-6cfd8ccd257f"  width="300" height="500" /)
+![Screenshot 2024-09-08 115646](https://github.com/user-attachments/assets/6a42610e-e573-42fd-9237-6cfd8ccd257f  width="300" height="500" /)
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
