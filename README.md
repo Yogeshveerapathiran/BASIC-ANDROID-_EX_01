@@ -1,5 +1,4 @@
-# BASIC-ANDROID
-# EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
+# BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 
 ## AIM:
@@ -25,6 +24,7 @@ Step 5: Design layout in activity_main.xml.
 Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
+
 
 ## PROGRAM
 ### DEVELOPED BY : YOGESH.V.S
@@ -96,7 +96,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ### Activity_Main.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -119,27 +118,20 @@ public class MainActivity extends AppCompatActivity {
 
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
+
 ## OUTPUT:
 ## OnCreate Executed:
-
-![Screenshot 2024-09-08 115226](https://github.com/user-attachments/assets/6e4f8ab4-36fd-48b7-85d1-c15acd9ccdb4 width="300" height="500" /)
+<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b" width="300" height="400" />
 
 ## OnPause Executed:
-
-![Screenshot 2024-09-08 115345](https://github.com/user-attachments/assets/04d1f4bf-2532-430b-86fd-35defceb4868 width="300" height="500" /)
+<img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="300" height="500" />
 
 ## OnResume Executed:
+<img src="https://github.com/user-attachments/assets/cc8d2106-38a4-4911-8fe6-32735466f104" width="300" height="500" />
 
-![Screenshot 2024-09-08 115448](https://github.com/user-attachments/assets/b3d74fc5-48cd-4970-b837-dd1145a65221  width="300" height="500" /)
 
 ## OnRestart Executed:
-
-![Screenshot 2024-09-08 115548](https://github.com/user-attachments/assets/14ff2915-320f-420f-8d25-509b91954d9f width="300" height="500" /)
-
-
-## OnStart Executed:
-
-![Screenshot 2024-09-08 115646](https://github.com/user-attachments/assets/6a42610e-e573-42fd-9237-6cfd8ccd257f  width="300" height="500" /)
+<img src="https://github.com/user-attachments/assets/c0f5fb51-3e91-4c53-a764-5caee17ef75f" width="300" height="500" />
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
